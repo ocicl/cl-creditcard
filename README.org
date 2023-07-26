@@ -1,0 +1,10 @@
+* cl-creditcard
+
+A common lisp library that provides an interface for charging creditcards.  Supports Authorize.net as a processor.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/cl-creditcard.git   |
+| commit  | 2853c34  |
+| systems | cl-creditcard |
+|---------+-------------------------------------------|
+
